@@ -1,2 +1,6 @@
 # Student-Dropout-and-Academic-Success-Analysis-for-School-Education
 This notebook presents an in-depth analysis of student dropout trends in school education, utilizing a dataset titled "Predict Students Dropout and Academic Success"  Investigating the Impact of Social and Economic Factors. This dataset encompasses a wide range of attributes that shed light on the dynamics contributing to student dropout.
+
+The primary objective of this project is to conduct a comprehensive analysis of student dropout rates in school education, utilizing the available dataset titled "Predict Students Dropout and Academic Success - Investigating the Impact of Social and Economic Factors." While the dataset may not include information on schools, areas, or castes, we can still extract valuable insights from the existing attributes.
+
+In the subsequent sections of this notebook, we will delve into data preprocessing, exploratory data analysis, and the development of predictive models to aid in the dropout analysis. While we may not have school-wise, area-wise, or caste-wise information, we will use the available attributes to contribute to the government's efforts in ensuring every child's right to education and reducing dropout rates where possible.
